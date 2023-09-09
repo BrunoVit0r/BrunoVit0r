@@ -4,7 +4,7 @@
 
 🌱 Estou iniciando minha Jornada em Desenvolvimento de Software Back-end, JavaScript e Node.js.
 
-🌱 Cursando Análise e Desenvolvimento de Sistemas na FATEC e Desenvolvimento de Softwares com foco em Back-end na cubosacademy.com
+🌱 Cursando Análise e Desenvolvimento de Sistemas na FATEC e Desenvolvimento de Softwares com foco em Back-end na CUBOS ACADEMY.
 
 💬 Tenho interesse em atuar com Desenvolvimento de Softwares com foco em Back-end. Vamos conversar?
 
