@@ -1,13 +1,11 @@
 #### Olá! Sou o Bruno.. 
 
 
-🔭 Designer Gráfico e Empreendedor a mais de 10 anos. Atualmente, estou dedicado ao Desenvolvimento de Softwares Back-end.
+🔭 Designer Gráfico a mais de 10 anos. Atualmente, desbravando o Desenvolvimento de Softwares Back-end.
 
-🌱 Desenvolvedor de Software Back-end, JavaScript e Node.js. 
+🌱 Desenvolvedor de Software Back-end, JavaScript e Node.js em CUBOS ACADEMY + IFOOD. 
 
-🌱 Desenvolvimento de Softwares com foco em Back-end na CUBOS ACADEMY.
-
-🌱 Cursando Análise e Desenvolvimento de Sistemas na FATEC 
+🌱 Cursando 2º SEM. em Análise e Desenvolvimento de Sistemas na FATEC Mogi Mirim.
 
 💬 Tenho interesse em atuar com Desenvolvimento de Softwares com foco em Back-end. 
 
