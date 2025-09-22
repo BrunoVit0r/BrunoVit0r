@@ -1,14 +1,16 @@
 #### Olá! Sou o Bruno.. 
 
 
-🔭 Designer Gráfico a mais de 10 anos. Atualmente, desbravando o Desenvolvimento de Softwares Back-end.
+🔭 A mais de 10 anos trabalhando com design + marketing digital + tecnologia. 
 
-🌱 Desenvolvedor de Software Back-end, JavaScript e Node.js em CUBOS ACADEMY + IFOOD. 
+🌱 Bacharel em Comunicação Visual - Design Gráfico
+🌱 Desenvolvedor de Software Back-end. 
+🌱 Cursando Análise e Desenvolvimento de Sistemas na FATEC Mogi Mirim.
 
-🌱 Cursando 2º SEM. em Análise e Desenvolvimento de Sistemas na FATEC Mogi Mirim.
-
-💬 Tenho interesse em atuar com Desenvolvimento de Softwares com foco em Back-end. 
+💬 Tenho certeza que posso contribuir com sua equipe. 
 
 #### Vamos conversar?
 https://www.linkedin.com/in/bruno-vitor/
 
+#### Saiba mais
+https://brunovitordesign.com.br
