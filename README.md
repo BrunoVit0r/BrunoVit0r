@@ -1,13 +1,8 @@
 #### Olá! Sou o Bruno.. 
 
-
-🔭 A mais de 10 anos trabalhando com design + marketing digital + tecnologia. 
-
-🌱 Bacharel em Comunicação Visual - Design Gráfico
-
-🌱 Desenvolvedor de Software Back-end. 
-
-🌱 Cursando Análise e Desenvolvimento de Sistemas na FATEC Mogi Mirim.
+A mais de 10 anos trabalhando com design + marketing digital + tecnologia. 
+Bacharel em Comunicação Visual - Design Gráfico
+Cursando Análise e Desenvolvimento de Sistemas.
 
 💬 Tenho certeza que posso contribuir com sua equipe. 
 
